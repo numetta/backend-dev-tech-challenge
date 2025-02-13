@@ -20,14 +20,14 @@ The system will allow users to manage their reading lists and track reading prog
 ### Required Technical Stack
 
 - Python 3.11+
-- FastAPI framework
-- PostgreSQL database
-- SQLAlchemy ORM
-- Poetry for dependency management
-- Docker and docker-compose
-- pytest for testing
-- Pre-commit hooks
-- Conventional Commits for version control
+- [FastAPI](https://fastapi.tiangolo.com) framework
+- [PostgreSQL](https://www.postgresql.org) database
+- [SQLAlchemy](https://www.sqlalchemy.org) ORM
+- [Poetry](https://python-poetry.org) for dependency management
+- [Docker](https://www.docker.com) and docker-compose
+- [pytest](https://docs.pytest.org/en/stable/) for testing
+- [Pre-commit](https://pre-commit.com) hooks
+- [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) for version control
 
 ### Core Features
 
