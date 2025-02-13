@@ -121,10 +121,10 @@ The Book Management System should implement the following features:
 
 - Use Conventional Commits format
 - Configure pre-commit hooks for:
-  - Code formatting (black)
-  - Import sorting (isort)
-  - Linting (flake8)
-  - Type checking (mypy)
+  - Code formatting ([black](https://black.readthedocs.io/en/stable/index.html))
+  - Import sorting ([isort](https://pycqa.github.io/isort/))
+  - Linting ([flake8](https://flake8.pycqa.org/en/latest/))
+  - Type checking ([mypy](https://mypy.readthedocs.io/en/stable/getting_started.html))
   - Conventional commit message checking
 
 ### API Endpoints
