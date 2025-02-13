@@ -156,8 +156,8 @@ The Book Management System should implement the following features:
 - Clean, readable, and well-documented code
 - Comprehensive error handling
 - Proper use of type hints
-- Adherence to PEP 8 standards
-- Implementation of SOLID principles
+- Adherence to [PEP 8](https://peps.python.org/pep-0008/) standards
+- Implementation of [SOLID](https://www.digitalocean.com/community/conceptual-articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design) principles
 
 #### Architecture
 
